@@ -27,8 +27,8 @@ A detail-oriented MySQL DBA with extensive experience in database management, op
 
 ## Contact Information
 - **Email:** karthiksarma@example.com  
-- **LinkedIn:** [LinkedIn Profile URL]  
-- **GitHub:** [GitHub Profile URL]  
+- **LinkedIn:** [[LinkedIn Profile URL] ](https://www.linkedin.com/in/karthik-sarma-6212a5301/) 
+- **GitHub:**[ [GitHub Profile URL]](https://www.linkedin.com/in/karthik-sarma-6212a5301/)  
 
 ---
 
