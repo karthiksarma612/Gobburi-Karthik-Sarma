@@ -16,7 +16,7 @@ Results-driven **MySQL Database Administrator** with **12+ years** of expertise 
 ## 💼 Professional Experience
 
 ### 🏢 **Database Administrator** @ Skillax Talent Cradle (Client: Motherson SMHS)
-**July 2025 - Present** | Gurugram, Haryana, India
+**July 2025 - May 2026** | Gurugram, Haryana, India
 - Designed and implemented database architecture based on customer requirements
 - Managed production support including data extraction, backup, and issue resolution
 - Performed L2/L3 production support with guaranteed uptime assurance
